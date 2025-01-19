@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 
 public class TelegramService {
 
-    private static final String BOT_TOKEN = "7883911986:AAEjG9SHnMWINuUujETPJfERBQObX-EgU40"; // Replace with your Telegram bot token
+    private static final String BOT_TOKEN = "YOUR TOKEN TELEGRAM"; // Replace with your Telegram bot token
     private static final String CHAT_ID = "1256440162"; // Replace with your Telegram chat ID
 
     // Send notification to Telegram
